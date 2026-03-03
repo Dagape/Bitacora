@@ -1,8 +1,11 @@
-name: "reporte uno"
+name: "Bug report"
 body:
 - type: markdown
   attributes:
-    value: "## Welcome!"
+    value: "Bugs are the worst!"
+- type: textarea
+  attributes:
+    label: "What's wrong?"
 - type: markdown
   attributes:
     value: |
