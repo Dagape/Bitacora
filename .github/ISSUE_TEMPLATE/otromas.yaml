@@ -1,5 +1,5 @@
-name: " bitacora digital "
-description: " datos generales de equipo que esta ingresando"
+name: " Bitacora digital "
+description: " Datos generales de equipo que esta ingresando"
 body:
 - type: markdown
   attributes:
@@ -12,11 +12,11 @@ body:
 - type: dropdown
   id: download
   attributes:
-    label: How did you download the software?
+    label: que modelo de euqipo es?
     options:
-      - Homebrew
-      - MacPorts 
-      - david 
-      - Built from source
+      - Hp
+      - Epson
+      - laser
+      - inyeccion de tinta
   validations:
     required: true
