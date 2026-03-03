@@ -1,5 +1,5 @@
-name: " de prueba"
-description: " de prueba en la descripción"
+name: " bitacora digital "
+description: " datos generales de equipo que esta ingresando"
 body:
 - type: markdown
   attributes:
