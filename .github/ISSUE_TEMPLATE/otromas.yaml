@@ -14,10 +14,10 @@ body:
   attributes:
     label: How did you download the software?
     options:
-      - Homebrew dadvid 
-      - MacPorts david
-      - apt-get davir 
-      - Built from source vvvvvvv
+      - Homebrew
+      - MacPorts 
+      - david 
+      - Built from source
   validations:
     required: true
 body:
