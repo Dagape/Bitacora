@@ -41,7 +41,7 @@ body:
     options:
       - label: Ruido fuerte en el interior de equipo
       - label: Mala calidad de imagen
-      - description: rayas, manchas, borrosas
+      - description: "rayas, manchas, borrosas"
      
 
 
