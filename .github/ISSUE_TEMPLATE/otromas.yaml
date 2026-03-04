@@ -1,6 +1,16 @@
 name: "Bitacora digital "
 description: "Datos generales de equipo que esta ingresando"
 body:
+- type: checkboxes
+  id: cat-preferences
+  attributes:
+    label: What kinds of cats do you like?
+    description: You may select more than one.
+    options:
+      - label: Orange cat (required. Everyone likes orange cats.)
+        required: true
+      - label: **Black cat**
+body:
 - type: markdown
   attributes:
     value: "## Welcome!"
@@ -20,7 +30,7 @@ body:
 body:
 - type: dropdown
   id: download
-  attributes:
+  attributes:  
     label: Marca de equipo a ingresar
     options:
       - Canon
