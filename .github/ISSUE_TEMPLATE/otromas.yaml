@@ -42,15 +42,7 @@ body:
       - label: Ruido fuerte en el interior de equipo
       - label: Mala calidad de imagen
       - label: Atoramiento de papel en el recorrido 
- - type: checkboxes
-  id: p2
-  attributes:
-    label: Que problema esta presentando el equipo?
-    description: Si es necesario seleccionar mas de uno
-    options:
-      - label: Ruido fuerte en el interior de equipo
-      - label: Mala calidad de imagen
-      - label: Atoramiento de papel en el recorrido      
+   
      
 
 
