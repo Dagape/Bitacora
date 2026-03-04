@@ -38,6 +38,7 @@ body:
   attributes:
     label: Que problema esta presentando el equipo?
     description: Si es necesario seleccionar mas de uno
+    value: "en genernal"
     options:
       - label: No imprime
       - label: Ruido fuerte en el interior de equipo
