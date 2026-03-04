@@ -42,7 +42,14 @@ body:
       - label: Ruido fuerte en el interior de equipo
       - label: Mala calidad de imagen
       - label: Atoramiento de papel en el recorrido / 
-   
+- type: input
+  id: usuario2
+  attributes:
+    label: Nombre de usuario 
+    description: "Nombre de persona que entrega el equipo"
+    placeholder: "Ingrese también numero de celular o no extensión telefonica "
+  validations:
+    required: true   
      
 
 
