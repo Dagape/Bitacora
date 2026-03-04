@@ -33,3 +33,15 @@ body:
     placeholder: "Ingrese también numero de celular o no extensión telefonica "
   validations:
     required: true
+- type: checkboxes
+  id: Problema o sintoma detectado
+  attributes:
+    label: Qué presenta el equipo al momento de falla?
+    description: Seleccione una o varias opciones segun corresponda
+    options:
+      - label: No imprime
+        required: true
+      - label: Ruido al interior del equipo
+      - label: Atora hoja de papel
+      - label: Código de error en pantalla o luces led parpadeando
+      - Label: Contiene toner y tambor nuevo
