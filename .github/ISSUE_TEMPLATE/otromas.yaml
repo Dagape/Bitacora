@@ -34,7 +34,7 @@ body:
   validations:
     required: true
 - type: checkboxes
-  id: prpoblema
+  id: problema
   attributes:
     label: Qué presenta el equipo al momento de falla?
     description: Seleccione una o varias opciones segun corresponda
