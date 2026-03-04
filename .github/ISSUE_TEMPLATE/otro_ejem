@@ -1,2 +1,43 @@
-
+name: "Bitacora digital "
+description: "Datos generales de equipo que esta ingresando"
+body:
+- type: checkboxes
+  id: cat-preferences
+  attributes:
+    label: What kinds of cats do you like?
+    description: You may select more than one.
+    options:
+      - label: Orange cat (required. Everyone likes orange cats.)
+        required: true
+      - label: **gato negro**
+body:
+- type: markdown
+  attributes:
+    value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."  
+body:
+- type: input
+  id: prevalence
+  attributes:
+    label: Bug prevalences
+    description: " que tansegudo "
+    placeholder: " I visit a page" 
+  validations:
+    required: true
+body:
+- type: dropdown
+  id: download
+  attributes:  
+    label: Marca de equipo a ingresar
+    options:
+      - Canon
+      - Xerox
+      - Hp
+      - Epson
+      - laser
+      - Kyocera
+  validations:
 
