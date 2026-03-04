@@ -21,4 +21,4 @@ body:
       - laser
       - Kyocera
   validations:
-    required: True
+    required: False
