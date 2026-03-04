@@ -17,3 +17,11 @@ body:
     placeholder: "Zona, region o área"
   validations:
     required: true
+- type: input
+  id: prevalence
+  attributes:
+    label: Origen de equipo a revisar
+    description: "Descripción de su area de adscripción"
+    placeholder: "Zona, region o área"
+  validations:
+    required: true
