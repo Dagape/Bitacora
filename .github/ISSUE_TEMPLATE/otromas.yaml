@@ -1,10 +1,10 @@
-name: "Bitacora digital "
+name: "Bitácora digital "
 description: "Datos generales de equipo que esta ingresando"
 body:
 - type: dropdown
   id: download
   attributes:  
-    label: Marca de equipo a ingresar
+    label: "Marca de equipo a ingresar"
     options:
       - Canon
       - Xerox
