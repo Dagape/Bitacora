@@ -6,6 +6,6 @@ body:
   attributes:
     label: Número de serie
     description: "Ingresar el número de serie"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+    placeholder: "serial no"
   validations:
     required: true
