@@ -18,7 +18,7 @@ body:
   validations:
     required: true
 - type: input
-  id: prevalence
+  id: prevalence1
   attributes:
     label: Origen de equipo a revisar
     description: "Descripción de su area de adscripción"
