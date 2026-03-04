@@ -20,14 +20,3 @@ body:
       - inyeccion de tinta
   validations:
     required: True
-    
-body:
-- type: dropdown
-  id: download
-  attributes:
-    label: Tipo
-    options:
-      - laser
-      - Inyeccion de tinta
-  validations:
-    required: True
