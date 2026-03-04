@@ -19,7 +19,7 @@ body:
       - laser
       - inyeccion de tinta
   validations:
-    required: False
+    required: True
 body:
 - type: dropdown
   id: download
