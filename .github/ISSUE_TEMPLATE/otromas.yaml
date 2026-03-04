@@ -17,7 +17,6 @@ body:
     placeholder: " I visit a page" 
   validations:
     required: true
-  
 body:
 - type: dropdown
   id: download
