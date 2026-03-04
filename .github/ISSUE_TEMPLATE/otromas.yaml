@@ -39,7 +39,6 @@ body:
     label: Que problema esta presentando el equipo?
     description: Si es necesario seleccionar mas de uno
     options:
-      - label: No imprime
       - label: Ruido fuerte en el interior de equipo
       - label: Mala calidad de imagen
       - description: rayas, manchas, borrosas
