@@ -2,9 +2,9 @@ name: "Bitácora digital "
 description: "Datos generales de equipo que esta ingresando"
 body:
 - type: input
-  id: prevalence
+  id: serie
   attributes:
-    label: Bug prevalence xerx
+    label: Número de serie, Bug prevalence xerx
     description: "How often do you or others encounter this bug?"
     placeholder: "Whenever I visit the user account page (1-2 times a week)"
   validations:
