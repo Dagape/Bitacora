@@ -1,10 +1,6 @@
 name: "Bitacora digital "
 description: "Datos generales de equipo que esta ingresando"
 body:
-- type: markdown
-  attributes:
-    value: "## Welcome!"
-body:
 - type: input
   id: prevalence
   attributes:
