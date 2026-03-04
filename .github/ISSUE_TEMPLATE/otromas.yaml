@@ -45,9 +45,9 @@ body:
 - type: input
   id: usuario2
   attributes:
-    label: Nombre de usuario 
-    description: "Nombre de persona que entrega el equipo"
-    placeholder: "Ingrese también numero de celular o no extensión telefonica "
+    label: Información Adicional 
+    description: "Algúna información o nota respecto al equipo"
+    placeholder: "Se reemplazo toner nuevo y no funciona, viene de otra reparación, se trabajo sin tinta este equipo, "
   validations:
     required: true   
      
