@@ -9,7 +9,7 @@ body:
     options:
       - label: Orange cat (required. Everyone likes orange cats.)
         required: true
-      - label: "gato negro"
+      - label: **gato negro**
 body:
 - type: markdown
   attributes:
