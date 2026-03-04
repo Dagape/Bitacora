@@ -38,12 +38,12 @@ body:
   attributes:
     label: Que problema esta presentando el equipo?
     description: Si es necesario seleccionar mas de uno
-    value: "en genernal"
     options:
       - label: No imprime
       - label: Ruido fuerte en el interior de equipo
       - label: Mala calidad de imagen
-      - Label: Derramamiento tinta o toner
+      - description: rayas, manchas, espacios borrosos, etc 
+
 
   
 
