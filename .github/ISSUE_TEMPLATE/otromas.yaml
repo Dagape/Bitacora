@@ -36,10 +36,11 @@ body:
 - type: checkboxes
   id: cat-preferences
   attributes:
-    label: What kinds of cats do you like?
-    description: You may select more than one.
+    label: Que problema esta presentando el equipo?
+    description: Si es necesario seleccionar mas de uno
     options:
-      - label: Orange cat (required. Everyone likes orange cats.)
+      - label: Atora hoja 
         required: true
-      - label: Black cat   
+      - label: Ruido fuerte en el interior de equipo
+  
 
