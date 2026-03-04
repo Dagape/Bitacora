@@ -42,6 +42,7 @@ body:
       - label: No imprime
         required: true
       - label: Ruido fuerte en el interior de equipo
+      - label: Mala calidad de imagen
       
   
 
