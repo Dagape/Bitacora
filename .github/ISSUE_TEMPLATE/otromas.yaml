@@ -12,8 +12,8 @@ body:
 - type: input
   id: prevalence
   attributes:
-    label: Bug prevalence
-    description: "How often do you or others encounter this bug?"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+    label: Origen de equipo a revisar
+    description: "Descripción de su area de adscripción"
+    placeholder: "Zona, region o área"
   validations:
     required: true
