@@ -42,8 +42,6 @@ body:
       - label: No imprime
         required: true
       - label: Ruido fuerte en el interior de equipo
-      - Label: Mala calidad de imagen
-      - Label: Atoramiento de papel
-      - Label: Derramamiento de tinta o toner 
+      
   
 
