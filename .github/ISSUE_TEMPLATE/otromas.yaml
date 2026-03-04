@@ -34,14 +34,11 @@ body:
   validations:
     required: true
 - type: checkboxes
-  id: problema
+  id: cat-preferences
   attributes:
-    label: Qué presenta el equipo al momento de falla?
-    description: Seleccione una o varias opciones segun corresponda
+    label: What kinds of cats do you like?
+    description: You may select more than one.
     options:
-      - label: No imprime
+      - label: Orange cat (required. Everyone likes orange cats.)
         required: true
-      - label: Ruido al interior del equipo
-      - label: Atora hoja de papel
-      - label: Código de error en pantalla o luces led parpadeando
-      - Label: Contiene toner y tambor nuevo
+      - label: Black cat
