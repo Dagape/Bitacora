@@ -28,7 +28,7 @@ body:
 - type: input
   id: usuario
   attributes:
-    label: NOmbre de usuario 
+    label: Nombre de usuario 
     description: "Nombre de persona que entrega el equipo"
     placeholder: "Ingrese también numero de celular o no extensión telefonica "
   validations:
