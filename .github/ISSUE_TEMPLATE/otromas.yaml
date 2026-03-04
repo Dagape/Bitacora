@@ -1,16 +1,11 @@
 name: "Bitácora digital "
 description: "Datos generales de equipo que esta ingresando"
 body:
-- type: dropdown
-  id: download
-  attributes:  
-    label: "Marca de equipo a ingresar"
-    options:
-      - Canon
-      - Xerox
-      - Hp
-      - Epson
-      - laser
-      - Kyocera
+- type: input
+  id: prevalence
+  attributes:
+    label: Bug prevalence
+    description: "How often do you or others encounter this bug?"
+    placeholder: "Whenever I visit the user account page (1-2 times a week)"
   validations:
-    required: False
+    required: true
