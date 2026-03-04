@@ -4,9 +4,9 @@ body:
 - type: input
   id: prevalence
   attributes:
-    label: bICHO PREVALETNE
-    description: "How often do you or others encounter this bug?"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+    label: Número de serie
+    description: "Escribe el número de serie"
+    placeholder: "xxxxxxxxxxx"
   validations:
     required: true
 - type: textarea
@@ -43,6 +43,8 @@ body:
         required: true
       - label: Black cat
       - label: negro
+      - label: Verde
+      - Label: Amarillo
 
      
        
