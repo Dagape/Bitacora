@@ -39,8 +39,11 @@ body:
     label: Que problema esta presentando el equipo?
     description: Si es necesario seleccionar mas de uno
     options:
-      - label: Atora hoja 
+      - label: No imprime
         required: true
       - label: Ruido fuerte en el interior de equipo
+      - Label: Mala calidad de imagen
+      - Label: Atoramiento de papel
+      - Label: Derramamiento de tinta o toner 
   
 
