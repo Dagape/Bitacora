@@ -18,10 +18,10 @@ body:
   validations:
     required: true
 - type: input
-  id: prevalence1
+  id: modelo
   attributes:
-    label: Origen de equipo a revisar
-    description: "Descripción de su area de adscripción"
-    placeholder: "Zona, region o área"
+    label: Marca / modelo
+    description: "Ingrese la marca y modelo del equipo"
+    placeholder: "Epson 211, Xerox, HP 1200 , etc"
   validations:
     required: true
