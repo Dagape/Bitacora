@@ -25,3 +25,11 @@ body:
     placeholder: "Epson 211, Xerox, HP 1200 , etc"
   validations:
     required: true
+- type: input
+  id: usuario
+  attributes:
+    label: NOmbre de usuario 
+    description: "Nombre de persona que entrega el equipo"
+    placeholder: "Ingrese también numero de celular o no extensión telefonica "
+  validations:
+    required: true
