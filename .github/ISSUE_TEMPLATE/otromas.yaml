@@ -6,7 +6,7 @@ body:
   attributes:
     label: Número de serie
     description: "Escribe el número de serie"
-    placeholder: "xxxxxxxxxxx"
+    placeholder: "Número de serie"
   validations:
     required: true
 - type: textarea
