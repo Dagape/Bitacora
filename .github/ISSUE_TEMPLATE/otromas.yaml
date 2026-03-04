@@ -4,8 +4,8 @@ body:
 - type: input
   id: serie
   attributes:
-    label: Número de serie, Bug prevalence xerx
-    description: "How often do you or others encounter this bug?"
+    label: Número de serie
+    description: "Ingresar el número de serie"
     placeholder: "Whenever I visit the user account page (1-2 times a week)"
   validations:
     required: true
