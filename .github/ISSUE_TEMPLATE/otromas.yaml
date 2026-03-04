@@ -4,7 +4,7 @@ body:
 - type: input
   id: prevalence
   attributes:
-    label: Número de serie
+    label: "Número de serie"
     description: "Escribe el número de serie"
     placeholder: "Número de serie"
   validations:
