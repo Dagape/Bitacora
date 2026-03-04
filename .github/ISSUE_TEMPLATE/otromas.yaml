@@ -9,6 +9,16 @@ body:
     value: |
       "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."  
 body:
+- type: input
+  id: prevalence
+  attributes:
+    label: Bug prevalences
+    description: " que tansegudo "
+    placeholder: " I visit a page" 
+  validations:
+    required: true
+  
+body:
 - type: dropdown
   id: download
   attributes:
