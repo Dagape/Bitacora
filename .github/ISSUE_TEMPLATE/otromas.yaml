@@ -24,10 +24,8 @@ body:
 - type: dropdown
   id: download
   attributes:
-    label: Marca
+    label: Tipo
     options:
-      - Hp
-      - Epson
       - laser
       - inyeccion de tinta
   validations:
