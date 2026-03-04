@@ -34,7 +34,7 @@ body:
   validations:
     required: true
 - type: checkboxes
-  id: cat-preferences
+  id: p1
   attributes:
     label: Que problema esta presentando el equipo?
     description: Si es necesario seleccionar mas de uno
