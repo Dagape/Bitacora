@@ -9,6 +9,14 @@ body:
     placeholder: "serial no"
   validations:
     required: true
+ - type: input
+  id: modelo
+  attributes:
+    label: modelo/variante
+    description: "Ingresa el modelo "
+    placeholder: "Epson stylus, Pixma, xp211, etc"
+  validations:
+    required: true   
 - type: input
   id: prevalence
   attributes:
