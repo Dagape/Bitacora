@@ -12,11 +12,13 @@ body:
 - type: dropdown
   id: download
   attributes:
-    label: Marca
+    label: Marca de 
     options:
+      - Canon
+      - Xerox
       - Hp
       - Epson
       - laser
-      - inyeccion de tinta
+      - Kyocera
   validations:
     required: True
