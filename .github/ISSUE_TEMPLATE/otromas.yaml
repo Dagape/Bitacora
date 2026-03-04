@@ -12,7 +12,7 @@ body:
  - type: input
   id: modelo
   attributes:
-    label: modelo/variante
+    label: modelo
     description: "Ingresa el modelo "
     placeholder: "Epson stylus, Pixma, xp211, etc"
   validations:
