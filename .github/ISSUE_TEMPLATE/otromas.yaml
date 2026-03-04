@@ -12,7 +12,19 @@ body:
 - type: dropdown
   id: download
   attributes:
-    label: que modelo de euqipo es?
+    label: Marca
+    options:
+      - Hp
+      - Epson
+      - laser
+      - inyeccion de tinta
+  validations:
+    required: true
+body:
+- type: dropdown
+  id: download
+  attributes:
+    label: Marca
     options:
       - Hp
       - Epson
